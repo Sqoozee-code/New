@@ -1,0 +1,14 @@
+C:\Аттестация\Задание 3\obj\Debug\net8.0\Задание 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Аттестация\Задание 3\obj\Debug\net8.0\Задание 3.AssemblyInfoInputs.cache
+C:\Аттестация\Задание 3\obj\Debug\net8.0\Задание 3.AssemblyInfo.cs
+C:\Аттестация\Задание 3\obj\Debug\net8.0\Задание 3.csproj.CoreCompileInputs.cache
+C:\Аттестация\Задание 3\bin\Debug\net8.0\Задание 3.exe
+C:\Аттестация\Задание 3\bin\Debug\net8.0\Задание 3.deps.json
+C:\Аттестация\Задание 3\bin\Debug\net8.0\Задание 3.runtimeconfig.json
+C:\Аттестация\Задание 3\bin\Debug\net8.0\Задание 3.dll
+C:\Аттестация\Задание 3\bin\Debug\net8.0\Задание 3.pdb
+C:\Аттестация\Задание 3\obj\Debug\net8.0\Задание 3.dll
+C:\Аттестация\Задание 3\obj\Debug\net8.0\refint\Задание 3.dll
+C:\Аттестация\Задание 3\obj\Debug\net8.0\Задание 3.pdb
+C:\Аттестация\Задание 3\obj\Debug\net8.0\Задание 3.genruntimeconfig.cache
+C:\Аттестация\Задание 3\obj\Debug\net8.0\ref\Задание 3.dll
